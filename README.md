@@ -1,0 +1,2 @@
+# parsome
+Parallelize some things
